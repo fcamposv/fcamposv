@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fcamposv
 - 👀 I’m interested in Quantitative Finance and Data Science
-- 🌱 I’m currently learning ML in Python
 - 📫 How to reach me camposvergarafelipe@gmail.com
 
 <!---
